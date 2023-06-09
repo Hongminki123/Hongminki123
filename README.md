@@ -8,8 +8,7 @@
 
 # 💻 My Homepage 💻
 
-
-www.hongminki123.github.io
+https://hongminki123.github.io/html1/
 
 # 📞 Contact 📞
 <div style="display: flex; flex-direction: row;">
