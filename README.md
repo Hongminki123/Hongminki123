@@ -42,5 +42,6 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <img src="https://img.shields.io/badge/C/c++-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div><br>
+
 # My next Level
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
